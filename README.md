@@ -9,22 +9,9 @@ I am a Flutter trainer and aspiring Flutter developer with strong expertise in b
 * 🎓 B.Voc Software Development, Calicut University
 
 
-
 ## 🛠 Skills
 
-### **Languages / Frameworks**
-
-* Flutter, Dart
-
-### **Mobile Development**
-
-* Provider, GetX, BLoC, Firebase, Hive
-* UI/UX, Animations
-
-### **Backend / APIs**
-
-* REST API, Dio Client
-
-### **Tools**
-
-* Git, Android Studio, Postman
+* **Languages/Frameworks:** Flutter, Dart
+* **Mobile Development:** Provider, GetX, BLoC, Firebase, Hive, UI Development, Animations
+* **Backend/APIs:** REST API, Dio Client
+* **Tools:** Git, Android Studio, Postman
