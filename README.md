@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I’m Adithya P A
 
-<!--
-**Adithya9196/Adithya9196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a Flutter trainer and aspiring Flutter developer with strong expertise in building modern, scalable mobile applications. Passionate about teaching, mentoring, and creating applications with clean architecture and smooth UI/UX.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🚀 I’m interested in Flutter development 
+* 📚 Currently enhancing my skills in state management, backend integrations, and advanced Flutter concepts
+* 🎓 B.Voc Software Development, Calicut University
+
+---
+
+## 🛠 Skills
+
+### **Languages / Frameworks**
+
+* Flutter, Dart
+
+### **Mobile Development**
+
+* Provider, GetX, BLoC, Firebase, Hive
+* UI/UX, Animations
+
+### **Backend / APIs**
+
+* REST API, Dio Client
+
+### **Tools**
+
+* Git, Android Studio, Postman
