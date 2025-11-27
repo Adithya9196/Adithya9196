@@ -8,7 +8,6 @@ I am a Flutter trainer and aspiring Flutter developer with strong expertise in b
 * 📚 Currently enhancing my skills in state management, backend integrations, and advanced Flutter concepts
 * 🎓 B.Voc Software Development, Calicut University
 
----
 
 ## 🛠 Skills
 
